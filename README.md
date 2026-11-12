@@ -2,6 +2,10 @@
 
 Music Companion 是一个运行在个人电脑上的 AI 音乐陪伴应用，AI 助手名为「子夜」。它把流式对话、自然语言点歌、播放队列、智能歌单和长期记忆放在同一个电台界面里。前端使用原生 HTML、CSS 和 JavaScript，Node.js 后端对接 DeepSeek 兼容接口与网易云音乐服务。
 
+## 界面预览
+
+![Music Companion 界面，展示音乐播放器、子夜对话和今日推荐](docs/images/music-companion-demo.png)
+
 ## 快速开始
 
 ### BYOK 与 API 安全
